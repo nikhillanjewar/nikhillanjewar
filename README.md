@@ -10,7 +10,7 @@
 
 *    Vadodara, Gujrat - Corporate Majdur
 *    Junior ERP Developer & Analyst
-*    Gmail [nikhillanjewar03@gmail.com](mailto:nikhillanjewar2003@gmail.com)
+*    Gmail [nikhillanjewar2003@gmail.com](mailto:nikhillanjewar2003@gmail.com)
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhillanjewar&label=Profile%20views&color=0e75b6&style=flat" alt="nikhillanjewar" /> </p>
