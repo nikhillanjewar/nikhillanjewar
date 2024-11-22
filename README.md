@@ -8,8 +8,8 @@
 
 *God is great*
 
-*    Vadodara, Gujrat - Corporate Majdur
 *    Junior ERP Developer & Analyst
+*    Vadodara, Gujrat - Corporate Majdur
 *    Gmail [nikhillanjewar2003@gmail.com](mailto:nikhillanjewar2003@gmail.com)
 </p>
 
