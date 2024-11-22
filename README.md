@@ -1,9 +1,9 @@
 #nikhillanjewar
 <h1 align="center" color="red">Hi, Myself Nikhil Lanjewar</h1>
-<h2 align="center">A passionate Programmer from India</h2>
+<h2 align="center">Software Engineer</h2>
 
 
-<h2>Student | Dreamer | Learner | Little bit Software Engineer also</h2>
+<h2>Student | Dreamer | Learner |</h2>
 -------------------------
 
 *God is great*
