@@ -17,10 +17,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhillanjewar&label=Profile%20views&color=0e75b6&style=flat" alt="nikhillanjewar" /> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="http://www.linkedin.com/in/nikhil-lanjewar-3b4a75205/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Bhuvan1175" height="25" width="35" /></a>
-<a href="https://x.com/H2rBlood" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Bhuvan1175" height="30" width="40" /></a>
+<a href="http://www.linkedin.com/in/nikhil-lanjewar-3b4a75205/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikhillanjewar" height="25" width="35" /></a>
+<a href="https://x.com/H2rBlood" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nikhillanjewar" height="30" width="40" /></a>
 <a href="https://www.instagram.com/_nikhil_lanjewar_/profilecard/?igsh=cXlqYXNzM3llaHli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Bhuvan1175" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/profile/nikhill_etc20" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" alt="Bhuvan1175" height="35" width="32" /></a>
+  <a href="https://www.hackerrank.com/profile/nikhill_etc20" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" alt="nikhillanjewar" height="35" width="32" /></a>
 
 </p>
 <h3 align="left">Languages and Tools:</h3>
@@ -42,5 +42,5 @@
 <h3 align="left">📊 GitHub Stats :</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikhillanjewar&theme=dark&hide_border=false&show_icons=true&locale=en&layout=compact" alt="nikhillanjewar"/></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nikhillanjewar&theme=dark&hide_border=false&show_icons=true&locale=en" alt="nikhillanjewar"/></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nikhillanjewar&theme=dark&hide_border=false" alt="nikhillanjewar"/></p>
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nikhillanjewar&theme=dark&hide_border=false" alt="nikhillanjewar"/></p>
                      
