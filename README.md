@@ -46,5 +46,9 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=nikhillanjewar&theme=dark&hide_border=true" alt="nikhillanjewar Streak Stats" />
 </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nikhillanjewar&show_icons=true&theme=dark&hide_border=true" alt="nikhillanjewar GitHub Stats" />
+</p>
+
 
 
