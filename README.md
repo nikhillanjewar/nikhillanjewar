@@ -42,8 +42,6 @@
 <h3 align="left">📊 GitHub Stats :</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikhillanjewar&theme=dark&hide_border=false&show_icons=true&locale=en&layout=compact" alt="nikhillanjewar"/></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nikhillanjewar&theme=dark&hide_border=false&show_icons=true&locale=en" alt="nikhillanjewar"/></p> 
-<p href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=nikhillanjewar" alt="GitHub Streak" /></p>
-<a href="https://git.io/streak-stats"><img src="https://git-hub-streak-stats.vercel.app?user=nikhillanjewar&theme-dark" alt="GitHub Streak" /></a>
-
+<a href="https://git.io/streak-stats"><img src="https://git-hub-streak-stats.vercel.app?user=nikhillanjewar&theme=dark" alt="GitHub Streak" /></a>
 
 
