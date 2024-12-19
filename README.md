@@ -38,7 +38,11 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="sqlite" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" />
+          
 </p>
+
+
 <h3 align="left">📊 GitHub Stats :</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikhillanjewar&theme=dark&hide_border=false&show_icons=true&locale=en&layout=compact" alt="nikhillanjewar"/></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nikhillanjewar&theme=dark&hide_border=false&show_icons=true&locale=en" alt="nikhillanjewar"/></p> 
